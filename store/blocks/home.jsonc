@@ -27,7 +27,7 @@
   },
   "info-card#button-left": {
     "props": {
-      "isFullModeStyle": false,
+      "isFullModeStyle": true,
       "textPosition": "left",
       "imageUrl": "https://appliancetheme.vteximg.com.br/arquivos/cozinha-cinza-min.png",
       "headline": "Shining chrome",
