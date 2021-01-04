@@ -1,5 +1,5 @@
 {
-  "store.home": {
+  "store.home": { 
     "blocks": [
       "rich-text",
       "info-card#button-right",
@@ -37,5 +37,6 @@
       "callToActionUrl": "/sale/d",
       "textAlignment": "center"
     }
+    ]
   }
 }
